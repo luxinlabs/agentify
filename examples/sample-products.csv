@@ -1,0 +1,5 @@
+id,name,brand,description,category,price,currency,stock,sku,image_url,shipping_days,returns_allowed,warranty,specs
+wh-1000,Aria Wireless Headphones,Northwind,"Over-ear wireless headphones with 30h battery",audio,149,USD,25,SKU-WH1000,https://example.com/wh1000.jpg,3,true,1-year limited,"{""driver_mm"": 40, ""bluetooth"": ""5.3""}"
+ch-65,USB-C Fast Charger 65W,Northwind,"65W GaN fast charger, dual port",accessories,39,USD,100,SKU-CH65,https://example.com/ch65.jpg,2,true,1-year limited,"{""wattage"": 65}"
+kb-tkl,Mechanical Keyboard TKL,KeyForge,"Tenkeyless mechanical keyboard, tactile switches",computers,99,USD,40,SKU-KBTKL,https://example.com/kbtkl.jpg,4,true,2-year limited,"{""switches"": ""tactile"", ""layout"": ""TKL""}"
+spk-boom,BoomBox Portable Speaker,SoundLab,"Portable Bluetooth speaker, IPX5 waterproof",audio,79,USD,0,SKU-SPKB,,7,true,,"{""battery_hours"": 12}"
