@@ -1,0 +1,9 @@
+{
+  "name": "agentify",
+  "version": "0.1.0",
+  "description": "Turn any merchant catalog into agent-native listings (Argosy ANP schema)",
+  "license": "Apache-2.0",
+  "type": "module",
+  "bin": { "agentify": "./src/index.js" },
+  "engines": { "node": ">=20" }
+}
